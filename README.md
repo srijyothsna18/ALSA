@@ -27,8 +27,12 @@ pytest installed for running tests
 
 **Usage**
 Clone the Repository
+
 git clone https://github.com/srijyothsna18/ALSA.git
+
 cd ALSA
+
 Run Test Cases Using Pytest
+
 python3 -m pytest -vs Tests/TA*
 
