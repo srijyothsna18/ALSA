@@ -13,18 +13,7 @@ Outputs/ - Contains ALSA output-related files.
 
 Tests/ - Contains Python test scripts for running ALSA test cases.
 
-
-**Repository Structure**
-├── ALSA.pptx           # PowerPoint presentation on ALSA
-├── ALSA.xlsx           # Test cases for ALSA in Excel format
-├── Core/               # Contains core ALSA components
-├── Inputs/             # Contains ALSA input-related files
-├── Outputs/            # Contains ALSA output-related files
-├── Tests/              # Contains test cases and scripts
-│   ├── TA01.py          # Python script to run test cases
-│   ├── TA02.py              # Utility functions for testing
-│   
-│
+![image](https://github.com/user-attachments/assets/a010d421-e172-4d1e-b1eb-6bce7c29b03d)
 
 
 **Prerequisites**
