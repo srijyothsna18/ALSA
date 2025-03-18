@@ -13,8 +13,6 @@ Outputs/ - Contains ALSA output-related files.
 
 Tests/ - Contains Python test scripts for running ALSA test cases.
 
-![image](https://github.com/user-attachments/assets/a010d421-e172-4d1e-b1eb-6bce7c29b03d)
-
 
 **Prerequisites**
 Ensure you have the following installed:
